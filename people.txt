@@ -1,0 +1,5 @@
+Jimbo 18 187
+Lucy 23 168
+Sam 32 145
+Candice 25 192
+Alice 56 143
